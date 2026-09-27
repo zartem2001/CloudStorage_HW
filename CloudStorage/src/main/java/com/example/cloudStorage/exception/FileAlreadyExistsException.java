@@ -1,0 +1,8 @@
+package com.example.cloudStorage.exception;
+
+
+public class FileAlreadyExistsException extends RuntimeException {
+    public FileAlreadyExistsException(String message) {
+        super(message);
+    }
+}

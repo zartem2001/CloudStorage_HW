@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CloudStorage/CloudStorage.iml" filepath="$PROJECT_DIR$/CloudStorage/CloudStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CloudStorage_HW.iml" filepath="$PROJECT_DIR$/.idea/CloudStorage_HW.iml" />
+    </modules>
+  </component>
+</project>
